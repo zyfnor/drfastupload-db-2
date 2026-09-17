@@ -1,0 +1,18 @@
+{
+  "hash": "2cf24dba5fb0",
+  "fullHash": "2cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824",
+  "sha256": "2cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824",
+  "pHash": null,
+  "originalName": "test.txt",
+  "storedName": "2cf24dba5fb0.enc",
+  "size": 5,
+  "extension": ".txt",
+  "encrypted": true,
+  "repo": "zyfnor/drfastupload-db-2",
+  "rawHash": "test123",
+  "uploadDate": "2026-09-17T11:20:14.300Z",
+  "clientTimestamp": null,
+  "uploaderIp": "2401:4900:88fc:27a4:ecd7:9a0a:fec6:2d5",
+  "url": "https://dr-fast-upload.pages.dev/public/2cf24dba5fb0.txt",
+  "rawUrl": "https://dr-fast-upload.pages.dev/public/2cf24dba5fb0.enc"
+}
