@@ -1,0 +1,18 @@
+{
+  "hash": "9c64a113d24a",
+  "fullHash": "9c64a113d24ab456a56a2b30b800b0d37b8f0153a199e2d9e3e185aa304fadbc",
+  "sha256": "9c64a113d24ab456a56a2b30b800b0d37b8f0153a199e2d9e3e185aa304fadbc",
+  "pHash": null,
+  "originalName": "download.webp",
+  "storedName": "9c64a113d24a.enc",
+  "size": 1144408,
+  "extension": ".webp",
+  "encrypted": true,
+  "repo": "zyfnor/drfastupload-db-2",
+  "rawHash": "ecec41178d448bcaaa932d15f870744da1d3efa0227762706160fbb9348e63ed",
+  "uploadDate": "2026-10-30T06:15:01.691Z",
+  "clientTimestamp": 1793340901691,
+  "uploaderIp": "2401:4900:8904:b5b2:3023:5953:35a5:f924",
+  "url": "https://dr-fast-upload.pages.dev/public/9c64a113d24a.webp",
+  "rawUrl": "https://dr-fast-upload.pages.dev/public/9c64a113d24a.enc"
+}
